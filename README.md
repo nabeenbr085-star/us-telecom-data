@@ -13,4 +13,3 @@ The goal is to map localized telecom payment gateways and support structures for
 ## Live Production Deployment
 A live instance of the generated environment, currently hosting 170+ localized routing nodes, is available for testing here:
 
-**[https://rcxcable.com/index.html](https://rcxcable.com/index.html)**
